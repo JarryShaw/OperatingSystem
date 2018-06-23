@@ -318,7 +318,7 @@ Child process receiving completed.
 
 <a name="file"> </a>
 
-## File Interface
+## File Interface
 
 &emsp; Use file interface functions from C standard library to implement a file duplicator program. Test case shows as below.
 
